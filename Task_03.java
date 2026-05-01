@@ -1,3 +1,7 @@
+// Create a generic class having two parameters username and password. If the username and password
+// entered by the user matches with the pre stored username and password then print a logon message
+// otherwise terminate the program.
+
 package Generics;
 
 import java.util.Scanner;
