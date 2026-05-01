@@ -1,3 +1,11 @@
+// Assuming you have a List of objects of different types such as Integer and Double, write a program in
+// Java using generics that:
+// 1. Sorts the list in ascending order based on the values of the objects.
+// 2. Calculates the sum of all the objects in the list.
+// 3. Finds the maximum value of all the objects in the list.
+// 4. Prints out the sorted list, sum of all the objects, and maximum value of all the objects.
+// You&#39;ll need to use Java&#39;s Comparable and Wildcard generics to accomplish this.
+
 package Generics;
 
 import java.util.*;
