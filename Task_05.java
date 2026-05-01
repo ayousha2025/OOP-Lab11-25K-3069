@@ -1,3 +1,8 @@
+// Create a text file named as “Confidential.txt”. Now, take input of designation from user. If the entered
+// input is “Faculty”, then give the RWX permissions to user. If the designation is student then give only
+// the read permissions.
+// After assigning the permissions, show the Access Rights’ status.
+
 package FileHandling;
 
 import java.io.*;
