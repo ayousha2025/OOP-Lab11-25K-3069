@@ -1,3 +1,7 @@
+// Create an arraylist of 5 elements added by user (The user should input the elements). Then write this list
+// to the text file present on the Desktop of your PC using BufferedWriter. After writing, read from the file
+// and show the items in the list. Then,delete the file.
+    
 package FileHandling;
 
 import java.util.ArrayList;
