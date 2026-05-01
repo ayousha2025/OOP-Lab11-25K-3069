@@ -1,0 +1,13 @@
+Student Name: Ayousha
+Student ID:   25K-3069
+
+Registered Courses (3 credit hours each):
+------------------------------------------
+1. PF Lab
+2. PF Theory
+3. Multivariable Calculus
+4. OOP Lab
+5. OOP Theory
+
+Total Courses     : 5
+Total Credit Hours: 15 / 15
