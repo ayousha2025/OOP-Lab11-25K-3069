@@ -35,15 +35,17 @@ public class Task_02{
 
         ArrayList<String> courses = new ArrayList<>();
 
-        courses.add("PF Lab");
-        courses.add("PF Theory");
-        courses.add("Multivariable Calculus");
         // Check condition for OOP registration
         if (pfLab >= 50 && pfTheory >= 50) {
             if (courses.size() < 5) {
                 courses.add("OOP Lab");
                 courses.add("OOP Theory");
             }
+        }
+        if (courses.size() < 5){
+        courses.add("DLD Lab");
+        courses.add("DLD Theory");
+        courses.add("Multivariable Calculus");
         }
 
         BufferedWriter writer = new BufferedWriter(new FileWriter(file));
